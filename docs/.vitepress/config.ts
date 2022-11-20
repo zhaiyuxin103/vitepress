@@ -5,6 +5,7 @@ export default defineConfig({
     titleTemplate: '责难无以成事',
     description: '责难无以成事',
     appearance: true,
+    base: '/vitepress/',
     head: [
         ['link', {rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: ''}],
         // would render: <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
