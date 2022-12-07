@@ -43,7 +43,7 @@ export default defineConfig({
                 {
                     text: '编程技术',
                     collapsible: true,
-                    collapsed: true,
+                    collapsed: false,
                     items: []
                 }
             ],
@@ -51,15 +51,17 @@ export default defineConfig({
                 {
                     text: '生活兴趣',
                     collapsible: true,
-                    collapsed: true,
-                    items: []
+                    collapsed: false,
+                    items: [
+                        { text: '刷抖音', link: '/life/刷抖音' },
+                    ]
                 }
             ],
             'tool/': [
                 {
                     text: '软件工具',
                     collapsible: true,
-                    collapsed: true,
+                    collapsed: false,
                     items: []
                 }
             ],
@@ -67,7 +69,7 @@ export default defineConfig({
                 {
                     text: '其他',
                     collapsible: true,
-                    collapsed: true,
+                    collapsed: false,
                     items: []
                 }
             ]
