@@ -44,7 +44,9 @@ export default defineConfig({
                     text: '编程技术',
                     collapsible: true,
                     collapsed: false,
-                    items: []
+                    items: [
+                        { text: 'API 授权为啥要在 Authorization 标头里加个 Bearer？', link: '/programe/API 授权为啥要在 Authorization 标头里加个 Bearer' },
+                    ]
                 }
             ],
             'life/': [
