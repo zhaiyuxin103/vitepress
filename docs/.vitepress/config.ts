@@ -57,6 +57,7 @@ export default defineConfig({
                     collapsed: false,
                     items: [
                         { text: '刷抖音', link: '/life/刷抖音' },
+                        { text: '大教堂终将倒下，但集市永存', link: '/life/大教堂终将倒下，但集市永存' },
                     ]
                 }
             ],
