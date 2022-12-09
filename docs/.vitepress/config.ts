@@ -74,7 +74,9 @@ export default defineConfig({
                     text: '其他',
                     collapsible: true,
                     collapsed: false,
-                    items: []
+                    items: [
+                        { text: '配置环境变量', link: '/other/配置环境变量' },
+                    ]
                 }
             ]
         },
