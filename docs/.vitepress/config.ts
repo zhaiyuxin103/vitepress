@@ -49,6 +49,7 @@ export default defineConfig({
                         { text: 'Composer 本地路径加载第三方扩展包', link: '/programe/Composer 本地路径加载第三方扩展包' },
                         { text: 'Java 开发环境部署', link: '/programe/Java 开发环境部署' },
                         { text: 'Flutter 开发环境部署问题汇总', link: '/programe/Flutter 开发环境部署问题汇总' },
+                        { text: 'Flutter 开发环境部署', link: '/programe/Flutter 开发环境部署' },
                     ]
                 }
             ],

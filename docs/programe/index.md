@@ -4,3 +4,4 @@
 * [Composer 本地路径加载第三方扩展包](Composer%20本地路径加载第三方扩展包.md)
 * [Java 开发环境部署](Java%20开发环境部署.md)
 * [Flutter 开发环境部署问题汇总](Flutter%20开发环境部署问题汇总.md)
+* [Flutter 开发环境部署](Flutter%20开发环境部署.md)
