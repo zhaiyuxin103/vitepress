@@ -61,6 +61,7 @@ export default defineConfig({
                     items: [
                         { text: '刷抖音', link: '/life/刷抖音' },
                         { text: '大教堂终将倒下，但集市永存', link: '/life/大教堂终将倒下，但集市永存' },
+                        { text: '如何给开源项目贡献源码', link: '/life/如何给开源项目贡献源码' },
                     ]
                 }
             ],
