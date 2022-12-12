@@ -70,7 +70,9 @@ export default defineConfig({
                     text: '软件工具',
                     collapsible: true,
                     collapsed: false,
-                    items: []
+                    items: [
+                        { text: '从这篇教程开始, 成为 Sublime Text 大师', link: '/tool/从这篇教程开始, 成为 Sublime Text 大师' },
+                    ]
                 }
             ],
             'other/': [
