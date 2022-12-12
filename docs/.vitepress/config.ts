@@ -73,6 +73,7 @@ export default defineConfig({
                     items: [
                         { text: '从这篇教程开始, 成为 Sublime Text 大师', link: '/tool/从这篇教程开始, 成为 Sublime Text 大师' },
                         { text: '使用 phpMyAdmin 管理多台 MySQL 服务器', link: '/tool/使用 phpMyAdmin 管理多台 MySQL 服务器' },
+                        { text: '如何输入直角引号（「」和『』）', link: '/tool/如何输入直角引号（「」和『』）' },
                     ]
                 }
             ],
