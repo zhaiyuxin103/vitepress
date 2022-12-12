@@ -85,6 +85,7 @@ export default defineConfig({
                     collapsed: false,
                     items: [
                         { text: '配置环境变量', link: '/other/配置环境变量' },
+                        { text: '软件版本命名规范', link: '/other/软件版本命名规范' },
                     ]
                 }
             ]
