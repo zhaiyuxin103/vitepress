@@ -5,3 +5,4 @@
 * [Java 开发环境部署](Java%20开发环境部署.md)
 * [Flutter 开发环境部署问题汇总](Flutter%20开发环境部署问题汇总.md)
 * [Flutter 开发环境部署](Flutter%20开发环境部署.md)
+* [搭建 Yaf 脚手架](搭建%20Yaf%20脚手架.md)

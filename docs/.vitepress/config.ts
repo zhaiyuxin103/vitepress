@@ -50,6 +50,7 @@ export default defineConfig({
                         { text: 'Java 开发环境部署', link: '/programe/Java 开发环境部署' },
                         { text: 'Flutter 开发环境部署问题汇总', link: '/programe/Flutter 开发环境部署问题汇总' },
                         { text: 'Flutter 开发环境部署', link: '/programe/Flutter 开发环境部署' },
+                        { text: '搭建 Yaf 脚手架', link: '/programe/搭建 Yaf 脚手架' },
                     ]
                 }
             ],
