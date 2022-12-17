@@ -14,7 +14,7 @@ Package Control 是一个为了方便管理插件的插件。安装过程可以�
 
 想要开发一个赏心悦目的产品，除了一个比较好的审美素养之外，开发工具的面子自然不能太 low。
 
-![file](/images/从这篇教程开始，成为%20Sublime%20Text%20大师/theme.png)
+![file](/images/从这篇教程开始，成为Sublime大师/theme.png)
 
 个人主题：Material Theme
 
@@ -47,7 +47,7 @@ Theme 也有很多细节配置，大家自行探索，有需要的时候去搜�
 [SublimeLinter](https://packagecontrol.io/search/SublimeLinter) 代码检查的功能，也是我的必备工具之一。强大之处在于，
 用高亮提示用户编写的代码中存在的不规范和错误的写法，支持 JavaScript、CSS、HTML、Java、PHP、Python、Ruby 等十多种开发语言。
 
-![file](/images/从这篇教程开始，成为%20Sublime%20Text%20大师/sublimelinter.png)
+![file](/images/从这篇教程开始，成为Sublime大师/sublimelinter.png)
 
 个人平时工作生活写代码用的都是 PHP，所以把
 SublimeLinter-php、SublimeLinter-phplint、SublimeLinter-phpcs、SublimeLinter-phpmd 都装了个遍。至于怎么玩，自己研究去吧～因为要
@@ -104,7 +104,7 @@ Vintage
 通过 Package Install 检索 Laravel 5 Artisan，成功安装之后，我们就可以在 Sublime 中直接执行 Artisan Command。比如，我需要新建一个
 Controller：
 
-![file](/images/从这篇教程开始，成为%20Sublime%20Text%20大师/artisan.png)
+![file](/images/从这篇教程开始，成为Sublime大师/artisan.png)
 
 很是方便。
 
