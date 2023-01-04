@@ -14,7 +14,7 @@ git clone https://github.com/InfyOmLabs/laravel-generator.git
 ```
 如下图：
 
-![file](/images/Composer本地路径加载第三方扩展包/laravel-generator-localization.png)
+![file](/images/PHP/Composer本地路径加载第三方扩展包/laravel-generator-localization.png)
 
 ### 2. 修改 composer.json 文件
 
@@ -35,7 +35,7 @@ git clone https://github.com/InfyOmLabs/laravel-generator.git
 
 注意只修改 `repositories` 选项，如图：
 
-![file](/images/Composer本地路径加载第三方扩展包/composer-json.png)
+![file](/images/PHP/Composer本地路径加载第三方扩展包/composer-json.png)
 
 ### 3. 更新 composer
 
@@ -53,7 +53,7 @@ composer require "infyomlabs/laravel-generator:*@dev"
 
 输入如下：
 
-![file](/images/Composer本地路径加载第三方扩展包/require.png)
+![file](/images/PHP/Composer本地路径加载第三方扩展包/require.png)
 
 如果你新加入一个扩展包，上面的流程已经讲完。
 
@@ -71,7 +71,7 @@ composer remove infyomlabs/laravel-generator
 
 composer 会创建一个文件夹链接，把 `vendor/infyomlabs/laravel-generator` 文件夹链接到 `packages/laravel-generator` 下，如图：
 
-![file](/images/Composer本地路径加载第三方扩展包/link.png)
+![file](/images/PHP/Composer本地路径加载第三方扩展包/link.png)
 
 ---
 
