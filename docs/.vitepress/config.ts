@@ -56,6 +56,17 @@ export default defineConfig({
           ],
         },
         {
+          text: "Go",
+          collapsible: true,
+          collapsed: false,
+          items: [
+            {
+              text: "多版本共存",
+              link: "/programe/Go/多版本共存",
+            },
+          ],
+        },
+        {
           text: "Java",
           collapsible: true,
           collapsed: false,

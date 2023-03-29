@@ -5,6 +5,10 @@
 * [Composer 本地路径加载第三方扩展包](PHP/Composer%20本地路径加载第三方扩展包.md)
 * [搭建 Yaf 脚手架](PHP/搭建%20Yaf%20脚手架.md)
 
+### Golang
+
+* [多版本共存](Go/多版本共存.md)
+
 ### Java
 
 * [开发环境部署](Java/开发环境部署.md)
