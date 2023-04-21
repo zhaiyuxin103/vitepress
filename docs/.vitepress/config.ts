@@ -106,6 +106,10 @@ export default defineConfig({
               text: "H5 输入框聚焦时禁止放大页面",
               link: "/programe/H5 输入框聚焦时禁止放大页面",
             },
+            {
+              text: "切换 IAM 角色（AWS CLI）",
+              link: "/programe/切换 IAM 角色（AWS CLI）",
+            },
           ],
         },
       ],
