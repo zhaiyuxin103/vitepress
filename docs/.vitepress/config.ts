@@ -157,6 +157,10 @@ export default defineConfig({
               text: "Git Commit Emoji 提交指南",
               link: "/tool/Git Commit Emoji 提交指南",
             },
+            {
+              text: "Clash 配置代理白名单",
+              link: "/tool/Clash 配置代理白名单",
+            },
           ],
         },
       ],
