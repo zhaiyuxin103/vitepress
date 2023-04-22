@@ -110,6 +110,10 @@ export default defineConfig({
               text: "切换 IAM 角色（AWS CLI）",
               link: "/programe/切换 IAM 角色（AWS CLI）",
             },
+            {
+              text: "依赖注入如何实现解耦",
+              link: "/programe/依赖注入如何实现解耦",
+            },
           ],
         },
       ],
