@@ -137,6 +137,21 @@ export default defineConfig({
       ],
       "tool/": [
         {
+          text: "Git",
+          collapsible: true,
+          collapsed: false,
+          items: [
+            {
+              text: "Git Commit Emoji 提交指南",
+              link: "/tool/Git Commit Emoji 提交指南",
+            },
+            {
+              text: "Git 如何合并某个 commit",
+              link: "/tool/Git 如何合并某个 commit",
+            },
+          ],
+        },
+        {
           text: "软件工具",
           collapsible: true,
           collapsed: false,
@@ -152,10 +167,6 @@ export default defineConfig({
             {
               text: "如何输入直角引号（「」和『』）",
               link: "/tool/如何输入直角引号（「」和『』）",
-            },
-            {
-              text: "Git Commit Emoji 提交指南",
-              link: "/tool/Git Commit Emoji 提交指南",
             },
             {
               text: "Clash 配置代理白名单",
