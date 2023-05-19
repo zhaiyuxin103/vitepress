@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as t,a as i}from"./app.3232aac9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"life/index.md","lastUpdated":1670736251000}'),r={name:"life/index.md"},_=i("",2),n=[_];function s(o,d,c,l,h,f){return a(),t("div",null,n)}const u=e(r,[["render",s]]);export{m as __pageData,u as default};
