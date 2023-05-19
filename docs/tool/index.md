@@ -4,6 +4,7 @@
 
 * [Git Commit Emoji 提交指南](Git%20Commit%20Emoji%20提交指南.md)
 * [Git 如何合并某个 commit](Git%20如何合并某个%20commit.md)
+* [Git 修改分支名称](Git/修改分支名称.md)
 
 ### 其他
 

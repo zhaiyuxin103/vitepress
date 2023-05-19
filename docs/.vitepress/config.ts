@@ -149,6 +149,10 @@ export default defineConfig({
               text: "Git 如何合并某个 commit",
               link: "/tool/Git 如何合并某个 commit",
             },
+            {
+              text: "Git 修改分支名称",
+              link: "/tool/Git/修改分支名称",
+            },
           ],
         },
         {
