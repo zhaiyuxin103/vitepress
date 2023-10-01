@@ -3,6 +3,7 @@
 ### PHP
 
 * [Composer 本地路径加载第三方扩展包](PHP/Composer%20本地路径加载第三方扩展包.md)
+* [使用 Composer 管理 Git Hooks](PHP/使用%20Composer%20管理%20Git%20Hooks.md)
 * [搭建 Yaf 脚手架](PHP/搭建%20Yaf%20脚手架.md)
 
 ### Golang
