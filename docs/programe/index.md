@@ -21,7 +21,8 @@
 
 ### API
 
-* [API 授权为啥要在 Authorization 标头里加个 Bearer？](API%20授权为啥要在%20Authorization%20标头里加个%20Bearer.md)
+* [Postman 自动化设置变量](API/Postman%20自动化设置变量.md)
+* [授权为啥要在 Authorization 标头里加个 Bearer？](API/授权为啥要在%20Authorization%20标头里加个%20Bearer.md)
 
 ### Other
 

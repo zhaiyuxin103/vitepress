@@ -104,8 +104,12 @@ export default defineConfig({
           collapsed: false,
           items: [
             {
-              text: "API 授权为啥要在 Authorization 标头里加个 Bearer？",
-              link: "/programe/API 授权为啥要在 Authorization 标头里加个 Bearer",
+              text: "Postman 自动化设置变量",
+              link: "/programe/API/Postman 自动化设置变量",
+            },
+            {
+              text: "授权为啥要在 Authorization 标头里加个 Bearer？",
+              link: "/programe/API/授权为啥要在 Authorization 标头里加个 Bearer",
             },
           ],
         },
