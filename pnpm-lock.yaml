@@ -15,7 +15,7 @@ importers:
         specifier: ^1.2.3
         version: 1.2.3(@algolia/client-search@4.23.3)(postcss@8.4.38)(search-insights@2.14.0)
       vue:
-        specifier: ^3.2.41
+        specifier: ^3.4.29
         version: 3.4.29
 
 packages:
