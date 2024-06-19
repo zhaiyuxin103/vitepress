@@ -29,13 +29,13 @@ npm install
 ## Usage
 
 ```sh
-npm run docs:dev
+pnpm docs:dev
 ```
 
 ## Run tests
 
 ```sh
-npm run test
+pnpm test
 ```
 
 ## Author
