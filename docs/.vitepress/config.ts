@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress";
+import taskLists from "markdown-it-task-lists";
 
 export default defineConfig({
   title: "月上陌阡",
@@ -15,6 +16,10 @@ export default defineConfig({
     headers: {
       level: [0, 0],
     },
+    config: (md) => {
+      // 使用更多的 Markdown-it 插件！
+      md.use(taskLists)
+    }
   },
   cleanUrls: true,
 
