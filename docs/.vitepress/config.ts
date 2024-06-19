@@ -195,6 +195,16 @@ export default defineConfig({
             },
           ],
         },
+        {
+          text: "包管理",
+          collapsed: false,
+          items: [
+            {
+              text: "从 npm 迁移到 pnpm",
+              link: "/tool/从 npm 迁移到 pnpm"
+            }
+          ]
+        }
       ],
       "other/": [
         {
