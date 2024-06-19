@@ -2,10 +2,10 @@
 
 ```js
 if (pm.response.code === 200) {
-    const response = JSON.parse(pm.response.text());
-    if (response.data.access_token) {
-        pm.environment.set('access_token', response.data.access_token);
-    }
+  const response = JSON.parse(pm.response.text());
+  if (response.data.access_token) {
+    pm.environment.set('access_token', response.data.access_token);
+  }
 }
 ```
 

@@ -1,17 +1,21 @@
 ### 说明
+
 Composer 提供了 `Path` 加载本地扩展包的方法，允许我们将扩展包以本地目录形式进行加载，方便快速修改，也可以把修改后的代码提交到项目的 VCS 中。  
 官方提供了 [使用 path 加载的文档](https://getcomposer.org/doc/05-repositories.md#path)，可以操作起来不够清晰，此文将一步步讲解如何操作。  
 下文将以 [InfyOmLabs/laravel-generator](https://github.com/InfyOmLabs/laravel-generator) 扩展包为例，演示所有的步骤。
 
 ### 1. 将项目本地化
+
 你可以通过任何方式将 `laravel-generator` 放入你的 packages 目录。本文将以 `git clone` 的方式完成此操作。
 
 根目录下：
+
 ```bash
 mkdir packages
 cd packages
 git clone https://github.com/InfyOmLabs/laravel-generator.git
 ```
+
 如下图：
 
 ![file](/images/PHP/Composer本地路径加载第三方扩展包/laravel-generator-localization.png)
@@ -24,12 +28,12 @@ git clone https://github.com/InfyOmLabs/laravel-generator.git
 
 ```json
 {
-    "repositories": [
-        {
-            "type": "path",
-            "url": "packages/laravel-generator"
-        }
-    ]
+  "repositories": [
+    {
+      "type": "path",
+      "url": "packages/laravel-generator"
+    }
+  ]
 }
 ```
 
@@ -47,7 +51,7 @@ git clone https://github.com/InfyOmLabs/laravel-generator.git
 composer require "infyomlabs/laravel-generator:*@dev"
 ```
 
-::: tip 
+::: tip
 这里的 `*@dev` 很重要
 :::
 

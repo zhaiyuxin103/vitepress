@@ -154,33 +154,33 @@ Controller：
 ，进入搜索插件列表，输入关键词后选中即可安装插件。
 :::
 
-|                                       插件名                                       |                                                           功能描述                                                            |
-|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
-|                                  ColorsSublime                                  |                                               代码高亮主题管理插件，安装成功后需要照着文档配置两个地方；                                               |
-|                                 Material Themel                                 |                                                非常棒的编辑器主题，注意作者是 equinusocio                                                |
-|                                 Blade Snippets                                  |                                                       Blade 模板自动补全                                                        |
-|                           Laravel Blade Hightlighter                            |                                                       Blade 语法高亮支持                                                        |
-|                                  SyncedSideBar                                  |                                                     自动在左边文件夹树中定位当前文件                                                      |
-|                                    ALignment                                    | 也是用快捷键操作，强迫症必备，「等号」对齐功能。Mac 下建议自己手动更改快捷键 [主页](https://github.com/wbond/sublime_alignment) [示例](https://imgur.com/eIBowAw) |
-|   [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)   |                                                         结尾处高亮 主页                                                          |
-|                                  EditorConfig                                   |                                                   .editorconfig 编码格式化支持                                                   |
-|                [Emmet](https://packagecontrol.io/packages/Emmet)                |                                 写前端代码的必备插件，[快捷键](https://docs.emmet.io/cheat-sheet/) 操作为主                                 |
-|                               SideBarEnhancements                               |                                                        文件夹栏右键菜单增强                                                         |
-|                                      SCSS                                       |                                                         官方版本语法高亮                                                          |
-|       [AdvancedNewFile](https://packagecontrol.io/packages/AutoFileName)        |                             快速创建新文件 [主页](https://github.com/skuroda/Sublime-AdvancedNewFile)                              |
-|                                    GitGutter                                    |                                   标记代码中做的编辑 [主页](https://github.com/jisaacks/GitGutter)                                   |
-|  [Laravel 5 Artisan](https://packagecontrol.io/packages/Laravel%205%20Artisan)  |                                                     Artisan 命令行调用 主页                                                      |
-| [Laravel 5 Snippets](https://packagecontrol.io/packages/Laravel%205%20Snippets) |                                                          代码片段 主页                                                          |
-|                                  SublimeLinter                                  |                                                           代码检测                                                            |
-|                                SublimeLinter-PHP                                |                                                       PHP 代码实时报错检测                                                        |
-|                          erichard/SublimePHPCompanion                           |                           自动引入 namespace [主页](https://github.com/erichard/SublimePHPCompanion)                            |
-|            [DocBlockr](https://packagecontrol.io/packages/DocBlockr)            |                                                         用来生成代码注释                                                          |
-|               [代码自动补全](https://packagecontrol.io/search/Snippets)               |                       好像 Laravel 就有 Blade Snippets、Laravel 5 Snippets，基本上只要你找找自己用的语言就会有的，这种按需引入就好。                        |
-|         [SublimeLinter](https://packagecontrol.io/search/SublimeLinter)         |                                                          代码检查工具                                                           |
-|        [ConvertToUTF8](https://packagecontrol.io/packages/ConvertToUTF8)        |                                                        文件转码成 utf-8                                                        |
-|             [JsFormat](https://packagecontrol.io/packages/JsFormat)             |                                                    Javascript 的代码格式化插件                                                    |
-|    [Bracket Highlighter](https://github.com/facelessuser/BracketHighlighter)    |                                          可匹配 [], (), {}, “”, ”, ，高亮标记便于查看起始和结束标记                                          |
-|        [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces)         |                                                      检测并一键去除代码中多余的空格                                                      |
+| 插件名                                                                          | 功能描述                                                                                                                                                          |
+| :------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ColorsSublime                                                                   | 代码高亮主题管理插件，安装成功后需要照着文档配置两个地方；                                                                                                        |
+| Material Themel                                                                 | 非常棒的编辑器主题，注意作者是 equinusocio                                                                                                                        |
+| Blade Snippets                                                                  | Blade 模板自动补全                                                                                                                                                |
+| Laravel Blade Hightlighter                                                      | Blade 语法高亮支持                                                                                                                                                |
+| SyncedSideBar                                                                   | 自动在左边文件夹树中定位当前文件                                                                                                                                  |
+| ALignment                                                                       | 也是用快捷键操作，强迫症必备，「等号」对齐功能。Mac 下建议自己手动更改快捷键 [主页](https://github.com/wbond/sublime_alignment) [示例](https://imgur.com/eIBowAw) |
+| [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)     | 结尾处高亮 主页                                                                                                                                                   |
+| EditorConfig                                                                    | .editorconfig 编码格式化支持                                                                                                                                      |
+| [Emmet](https://packagecontrol.io/packages/Emmet)                               | 写前端代码的必备插件，[快捷键](https://docs.emmet.io/cheat-sheet/) 操作为主                                                                                       |
+| SideBarEnhancements                                                             | 文件夹栏右键菜单增强                                                                                                                                              |
+| SCSS                                                                            | 官方版本语法高亮                                                                                                                                                  |
+| [AdvancedNewFile](https://packagecontrol.io/packages/AutoFileName)              | 快速创建新文件 [主页](https://github.com/skuroda/Sublime-AdvancedNewFile)                                                                                         |
+| GitGutter                                                                       | 标记代码中做的编辑 [主页](https://github.com/jisaacks/GitGutter)                                                                                                  |
+| [Laravel 5 Artisan](https://packagecontrol.io/packages/Laravel%205%20Artisan)   | Artisan 命令行调用 主页                                                                                                                                           |
+| [Laravel 5 Snippets](https://packagecontrol.io/packages/Laravel%205%20Snippets) | 代码片段 主页                                                                                                                                                     |
+| SublimeLinter                                                                   | 代码检测                                                                                                                                                          |
+| SublimeLinter-PHP                                                               | PHP 代码实时报错检测                                                                                                                                              |
+| erichard/SublimePHPCompanion                                                    | 自动引入 namespace [主页](https://github.com/erichard/SublimePHPCompanion)                                                                                        |
+| [DocBlockr](https://packagecontrol.io/packages/DocBlockr)                       | 用来生成代码注释                                                                                                                                                  |
+| [代码自动补全](https://packagecontrol.io/search/Snippets)                       | 好像 Laravel 就有 Blade Snippets、Laravel 5 Snippets，基本上只要你找找自己用的语言就会有的，这种按需引入就好。                                                    |
+| [SublimeLinter](https://packagecontrol.io/search/SublimeLinter)                 | 代码检查工具                                                                                                                                                      |
+| [ConvertToUTF8](https://packagecontrol.io/packages/ConvertToUTF8)               | 文件转码成 utf-8                                                                                                                                                  |
+| [JsFormat](https://packagecontrol.io/packages/JsFormat)                         | Javascript 的代码格式化插件                                                                                                                                       |
+| [Bracket Highlighter](https://github.com/facelessuser/BracketHighlighter)       | 可匹配 [], (), {}, “”, ”, ，高亮标记便于查看起始和结束标记                                                                                                        |
+| [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces)                | 检测并一键去除代码中多余的空格                                                                                                                                    |
 
 #### 结语
 

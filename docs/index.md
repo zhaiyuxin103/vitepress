@@ -9,12 +9,12 @@ hero:
     src: /logo.png
     alt: VitePress
   actions:
-  - theme: brand
-    text: Get Started
-    link: /programe/index
-  - theme: alt
-    text: View on GitHub
-    link: https://github.com/zhaiyuxin103/vitepress
+    - theme: brand
+      text: Get Started
+      link: /programe/index
+    - theme: alt
+      text: View on GitHub
+      link: https://github.com/zhaiyuxin103/vitepress
 features:
   - icon: ⚡️
     title: Vite, The DX that can't be beat

@@ -20,6 +20,9 @@ importers:
       markdown-it-task-lists:
         specifier: ^2.1.1
         version: 2.1.1
+      prettier:
+        specifier: 3.3.2
+        version: 3.3.2
       vitepress:
         specifier: ^1.2.3
         version: 1.2.3(@algolia/client-search@4.23.3)(@types/node@20.14.5)(postcss@8.4.38)(search-insights@2.14.0)(typescript@5.4.5)
@@ -924,6 +927,11 @@ packages:
 
   preact@10.22.0:
     resolution: {integrity: sha512-RRurnSjJPj4rp5K6XoP45Ui33ncb7e4H7WiOHVpjbkvqvA3U+N8Z6Qbo0AE6leGYBV66n8EhEaFixvIu3SkxFw==}
+
+  prettier@3.3.2:
+    resolution: {integrity: sha512-rAVeHYMcv8ATV5d508CFdn+8/pHPpXeIid1DdrPwXnaAdH7cqjVbpJaT5eq4yRAFU/lsbwYwSF/n5iNrdJHPQA==}
+    engines: {node: '>=14'}
+    hasBin: true
 
   punycode@2.3.1:
     resolution: {integrity: sha512-vYt7UD1U9Wg6138shLtLOvdAu+8DsC/ilFtEVHcH+wydcSpNE20AfSOduf6MkRFahL5FY7X1oU7nKVZFtfq8Fg==}
@@ -1992,6 +2000,8 @@ snapshots:
       source-map-js: 1.2.0
 
   preact@10.22.0: {}
+
+  prettier@3.3.2: {}
 
   punycode@2.3.1: {}
 

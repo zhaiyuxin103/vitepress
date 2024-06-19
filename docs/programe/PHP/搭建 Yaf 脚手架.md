@@ -2,42 +2,42 @@
 
 1. 首先通过 phpinfo 确认自己的 PHP 版本是 TS 还是 NTS
 
-    ![file](/images/PHP/搭建Yaf脚手架/thread-safety.png)
+   ![file](/images/PHP/搭建Yaf脚手架/thread-safety.png)
 
 2. 前往 [PECL 官网](http://pecl.php.net/package/yaf) 下载扩展
 
-    ![file](/images/PHP/搭建Yaf脚手架/dll.png)
-    
-    ![file](/images/PHP/搭建Yaf脚手架/download.png)
+   ![file](/images/PHP/搭建Yaf脚手架/dll.png)
+
+   ![file](/images/PHP/搭建Yaf脚手架/download.png)
 
 3. 解压之后将文件夹中的 **php_yaf.dll** 文件剪切到 PHP 的扩展目录
 
-    :::tip
-    扩展目录根据自己的情况来判断，不要照搬哈 ~
-    :::
-    
-    ![file](/images/PHP/搭建Yaf脚手架/extension_dir.png)
+   :::tip
+   扩展目录根据自己的情况来判断，不要照搬哈 ~
+   :::
+
+   ![file](/images/PHP/搭建Yaf脚手架/extension_dir.png)
 
 4. 修改 PHP 配置文件
 
-    ![file](/images/PHP/搭建Yaf脚手架/ini.png)
-    
-    在适当的位置添加以下代码：
-    
-    ```ini
-    extension=php_yaf.dll
-    [yaf]
-    yaf.use_namespace=1
-    yaf.use_spl_autoload=1
-    ```
+   ![file](/images/PHP/搭建Yaf脚手架/ini.png)
+
+   在适当的位置添加以下代码：
+
+   ```ini
+   extension=php_yaf.dll
+   [yaf]
+   yaf.use_namespace=1
+   yaf.use_spl_autoload=1
+   ```
 
 5. 重启 Nginx，再次查看 phpinfo，能看到以下信息即为安装成功
 
-    :::tip
-    可能需要重启电脑才会生效
-    :::
-    
-    ![file](/images/PHP/搭建Yaf脚手架/success.png)
+   :::tip
+   可能需要重启电脑才会生效
+   :::
+
+   ![file](/images/PHP/搭建Yaf脚手架/success.png)
 
 ## 安装脚手架
 

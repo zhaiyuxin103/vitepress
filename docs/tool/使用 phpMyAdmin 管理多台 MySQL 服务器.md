@@ -44,30 +44,30 @@ $cfg['AllowArbitraryServer'] = true;
 
 2. 在文件中定义你的多台服务器配置信息：
 
-    ```php
-    $hosts = [
-        1 => ['host' => 'localhost', 'user' => 'root', 'password' => 'root'],
-        2 => ['host' => '192.168.10.10', 'user' => 'homestead', 'password' => 'secret']
-    ];
-    ```
+   ```php
+   $hosts = [
+       1 => ['host' => 'localhost', 'user' => 'root', 'password' => 'root'],
+       2 => ['host' => '192.168.10.10', 'user' => 'homestead', 'password' => 'secret']
+   ];
+   ```
 
 3. 在加入以下代码片段，通过 `for` 循环来读取多台 `MySQL` 服务器配置信息
-    
-    ```php
-    for($i = 1; $i <= count($hosts); $i++){
-        /* Authentication type */
-        $cfg['Servers'][$i]['auth_type'] = 'cookie';
-        /* Server parameters */
-        $cfg['Servers'][$i]['host'] = $hosts[$i]['host'];    // 修改host
-        $cfg['Servers'][$i]['connect_type'] = 'tcp';
-        $cfg['Servers'][$i]['compress'] = false;
-        /* Select mysqli if your server has it */
-        $cfg['Servers'][$i]['extension'] = 'mysql';
-        $cfg['Servers'][$i]['AllowNoPassword'] = true;
-        $cfg['Servers'][$i]['user'] = $hosts[$i]['user'];    // 修改用户名
-        $cfg['Servers'][$i]['password'] = $hosts[$i]['password'];    // 密码
-    }
-    ```
+
+   ```php
+   for($i = 1; $i <= count($hosts); $i++){
+       /* Authentication type */
+       $cfg['Servers'][$i]['auth_type'] = 'cookie';
+       /* Server parameters */
+       $cfg['Servers'][$i]['host'] = $hosts[$i]['host'];    // 修改host
+       $cfg['Servers'][$i]['connect_type'] = 'tcp';
+       $cfg['Servers'][$i]['compress'] = false;
+       /* Select mysqli if your server has it */
+       $cfg['Servers'][$i]['extension'] = 'mysql';
+       $cfg['Servers'][$i]['AllowNoPassword'] = true;
+       $cfg['Servers'][$i]['user'] = $hosts[$i]['user'];    // 修改用户名
+       $cfg['Servers'][$i]['password'] = $hosts[$i]['password'];    // 密码
+   }
+   ```
 
 4. 保存文件，重新登陆即可实现管理多台 `MySQL` 服务器。
 

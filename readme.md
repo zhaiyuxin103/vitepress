@@ -42,10 +42,10 @@ pnpm test
 
 👤 **翟宇鑫**
 
-* Website: https://learnku.fit/
-* Twitter: [@zhaiyuxin103](https://twitter.com/zhaiyuxin103)
-* Github: [@zhaiyuxin103](https://github.com/zhaiyuxin103)
-* LinkedIn: [@zhaiyuxin103](https://linkedin.com/in/zhaiyuxin103)
+- Website: https://learnku.fit/
+- Twitter: [@zhaiyuxin103](https://twitter.com/zhaiyuxin103)
+- Github: [@zhaiyuxin103](https://github.com/zhaiyuxin103)
+- LinkedIn: [@zhaiyuxin103](https://linkedin.com/in/zhaiyuxin103)
 
 ## 🤝 Contributing
 
@@ -70,5 +70,6 @@ Many thanks to Jetbrains for kindly providing a license for me to work on this a
 
 [![JetBrains](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)](https://www.jetbrains.com/?from=https://github.com/zhaiyuxin103)
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
