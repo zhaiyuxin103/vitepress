@@ -10,11 +10,11 @@ hero:
     alt: VitePress
   actions:
     - theme: brand
-      text: Get Started (English)
+      text: Get Started
       link: /en/tool/git-branch-sync-methods
     - theme: alt
-      text: 开始阅读（中文）
-      link: /zh_CN/tool/Git 分支落后同步方法
+      text: View on GitHub
+      link: https://github.com/zhaiyuxin103/vitepress
 features:
   - icon: ⚡️
     title: Vite, The DX that can't be beat
