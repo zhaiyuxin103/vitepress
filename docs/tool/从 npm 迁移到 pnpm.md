@@ -28,11 +28,11 @@ npx npkill
 ```yaml
 packages:
   # include packages in subfolders (change as required)
-  - "apps/**"
+  - 'apps/**'
   # all packages in direct subdirs of packages/
-  - "packages/**"
+  - 'packages/**'
   # exclude packages that are inside test directories
-  - "!**/test/**"
+  - '!**/test/**'
 ```
 
 将 `workspaces` 从 `package.json` 中删除
