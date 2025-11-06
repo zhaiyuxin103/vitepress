@@ -171,6 +171,10 @@ export default defineConfig({
               text: 'Git 修改分支名称',
               link: '/tool/Git/修改分支名称',
             },
+            {
+              text: 'Git 分支落后同步方法',
+              link: '/tool/Git 分支落后同步方法',
+            },
           ],
         },
         {
