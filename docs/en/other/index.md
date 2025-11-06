@@ -1,3 +1,3 @@
 # Other
 
-More content coming soon...
+- [Configuring Environment Variables](setup-environment-variables.md)

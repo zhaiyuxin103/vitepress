@@ -88,6 +88,18 @@ export default defineConfig({
               ],
             },
           ],
+          '/en/other/': [
+            {
+              text: 'Other',
+              collapsed: false,
+              items: [
+                {
+                  text: 'Configuring Environment Variables',
+                  link: '/en/other/setup-environment-variables',
+                },
+              ],
+            },
+          ],
         },
         siteTitle: '月上陌阡',
         editLink: {
@@ -302,7 +314,10 @@ export default defineConfig({
               text: '其他',
               collapsed: false,
               items: [
-                { text: '配置环境变量', link: '/zh_CN/other/配置环境变量' },
+                {
+                  text: '配置环境变量',
+                  link: '/zh_CN/other/setup-environment-variables',
+                },
                 {
                   text: '软件版本命名规范',
                   link: '/zh_CN/other/软件版本命名规范',
