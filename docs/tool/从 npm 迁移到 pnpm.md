@@ -19,11 +19,11 @@ npx npkill
 }
 ```
 
-## [可选]创建 pnpm-workspace.yaml 并写入以下内容
+## \[可选\]创建 pnpm-workspace.yaml 并写入以下内容
 
-> [!TIP]
->
-> - [ ] 这里涉及到一个名为 `monorepo` 的软件开发策略
+::: tip
+这里涉及到一个名为 `monorepo` 的软件开发策略
+:::
 
 ```yaml
 packages:
@@ -37,14 +37,15 @@ packages:
 
 将 `workspaces` 从 `package.json` 中删除
 
-## [可选]使用 pnpm add 安装依赖有警告
+## \[可选\]使用 pnpm add 安装依赖有警告
 
 1. 执行 `pnpm add` 时增加 `-w` 选项
 
-> [!INFO]
-> 考虑到某些第三方会自主执行 pnpm add，此时不好控制 cli 选项，所以推荐第二种方案
->
-> - [ ] 考虑到 `monorepo`，这里应该不是最佳实践
+::: info
+考虑到某些第三方会自主执行 pnpm add，此时不好控制 cli 选项，所以推荐第二种方案
+
+考虑到 `monorepo`，这里应该不是最佳实践
+:::
 
 2. 根目录下创建 `.npmrc` 文件并写入 `ignore-workspace-root-check=true`
 
@@ -82,8 +83,9 @@ pnpm install
 
 - [https://pnpm.io/package_json#engines](https://pnpm.io/package_json#engines)
 
-> [!TIP]
-> 本文参考于以下文章：
->
-> - [How to migrate from yarn / npm to pnpm](https://dev.to/andreychernykh/yarn-npm-to-pnpm-migration-guide-2n04)
-> - [Migrate npm to pnpm](https://gist.github.com/mmyoji/ea01398a1cbeded5bf1a701711593759)
+::: tip
+本文参考于以下文章：
+
+- [How to migrate from yarn / npm to pnpm](https://dev.to/andreychernykh/yarn-npm-to-pnpm-migration-guide-2n04)
+- [Migrate npm to pnpm](https://gist.github.com/mmyoji/ea01398a1cbeded5bf1a701711593759)
+  :::

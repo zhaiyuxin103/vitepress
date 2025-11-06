@@ -1,18 +1,18 @@
 设计 API 授权，或者调用第三方 API 时，经常会接触到：
 
-```
+```http
 Authorization : Bearer Tokenxxxxxx
 ```
 
 有没有疑惑为何不直接写成这样就得了：
 
-```
+```http
 Authorization : Tokenxxxxxx
 ```
 
 这是因为 W3C 的 [HTTP 1.0](https://www.rfc-editororg/rfc/rfc1945) 规范，Authorization 的格式是：
 
-```
+```http
 Authorization: <type> <authorization-parameters>
 ```
 

@@ -3,5 +3,8 @@
  * @type {import('lint-staged').Configuration}
  */
 export default {
-  '*.{js,mjs,ts,tsx,json,css,scss,md,yml,yaml,vue,blade.php}': ['pnpm format'],
+  '*.{js,mjs,ts,tsx,json,css,scss,md,yml,yaml,vue}': [
+    'pnpm format',
+    'pnpm lint',
+  ],
 };

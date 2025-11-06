@@ -54,8 +54,9 @@ export AWS_DEFAULT_PROFILE=Record-China
 echo "export AWS_DEFAULT_PROFILE=Record-China" >> ~/.zshrc
 ```
 
-> [!TIP]
-> 本文参考自：
->
-> - [AWS Command Line Interface Documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html#cli-configure-profiles-create)
-> - [如何在 aws cli 中使用多个配置文件](https://www.jibing57.com/2017/10/24/how-to-use-aws-cli-with-multi-user/)
+::: tip
+本文参考自：
+
+- [AWS Command Line Interface Documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html#cli-configure-profiles-create)
+- [如何在 aws cli 中使用多个配置文件](https://www.jibing57.com/2017/10/24/how-to-use-aws-cli-with-multi-user/)
+  :::
