@@ -1,2 +1,5 @@
 docs/.vitepress/cache/deps
 pnpm-lock.yaml
+.claude/settings.local.json
+AGENTS.md
+CLAUDE.md

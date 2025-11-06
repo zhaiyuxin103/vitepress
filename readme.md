@@ -131,14 +131,14 @@ git commit -m "docs: 更新文档"
 
 ## 脚本命令
 
-| 命令 | 说明 |
-|------|------|
-| `pnpm docs:dev` | 启动开发服务器 |
-| `pnpm docs:build` | 构建生产版本 |
-| `pnpm docs:serve` | 预览生产构建 |
-| `pnpm format` | 格式化所有代码 |
-| `pnpm format:check` | 检查代码格式 |
-| `pnpm lint` | 运行 ESLint 并自动修复 |
+| 命令                | 说明                   |
+| ------------------- | ---------------------- |
+| `pnpm docs:dev`     | 启动开发服务器         |
+| `pnpm docs:build`   | 构建生产版本           |
+| `pnpm docs:serve`   | 预览生产构建           |
+| `pnpm format`       | 格式化所有代码         |
+| `pnpm format:check` | 检查代码格式           |
+| `pnpm lint`         | 运行 ESLint 并自动修复 |
 
 ## 贡献
 
