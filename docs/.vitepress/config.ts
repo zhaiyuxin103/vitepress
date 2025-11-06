@@ -56,6 +56,18 @@ export default defineConfig({
           { text: 'About', link: '/en/about' },
         ],
         sidebar: {
+          '/en/life/': [
+            {
+              text: 'Life',
+              collapsed: false,
+              items: [
+                {
+                  text: 'Cathedrals Fall, Markets Endure',
+                  link: '/en/life/cathedrals-fall-markets-endure',
+                },
+              ],
+            },
+          ],
           '/en/tool/': [
             {
               text: 'Git',
@@ -212,7 +224,7 @@ export default defineConfig({
                 { text: '刷抖音', link: '/zh_CN/life/刷抖音' },
                 {
                   text: '大教堂终将倒下，但集市永存',
-                  link: '/zh_CN/life/大教堂终将倒下，但集市永存',
+                  link: '/zh_CN/life/cathedrals-fall-markets-endure',
                 },
                 {
                   text: '如何给开源项目贡献源码',
