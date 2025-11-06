@@ -69,6 +69,10 @@ export default defineConfig({
                   text: 'Contributing to Open Source',
                   link: '/en/life/contributing-to-open-source',
                 },
+                {
+                  text: 'On Scrolling TikTok',
+                  link: '/en/life/on-scrolling-tiktok',
+                },
               ],
             },
           ],
@@ -225,7 +229,7 @@ export default defineConfig({
               text: '生活兴趣',
               collapsed: false,
               items: [
-                { text: '刷抖音', link: '/zh_CN/life/刷抖音' },
+                { text: '刷抖音', link: '/zh_CN/life/on-scrolling-tiktok' },
                 {
                   text: '大教堂终将倒下，但集市永存',
                   link: '/zh_CN/life/cathedrals-fall-markets-endure',
