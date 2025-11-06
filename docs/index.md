@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: Get Started (English)
-      link: /en/tool/git-branch-sync-methods
+      link: /en/
     - theme: alt
       text: 开始阅读（中文）
-      link: /zh_CN/tool/Git 分支落后同步方法
+      link: /zh_CN/
 features:
   - icon: ⚡️
     title: Vite, The DX that can't be beat

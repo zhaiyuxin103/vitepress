@@ -240,7 +240,7 @@ export default defineConfig({
                 },
                 {
                   text: 'Git 分支落后同步方法',
-                  link: '/zh_CN/tool/Git 分支落后同步方法',
+                  link: '/zh_CN/tool/git-branch-sync-methods',
                 },
               ],
             },

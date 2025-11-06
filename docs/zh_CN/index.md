@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /programe/index
+      link: /zh_CN/programe/index
     - theme: alt
       text: View on GitHub
       link: https://github.com/zhaiyuxin103/vitepress
