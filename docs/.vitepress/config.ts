@@ -65,6 +65,10 @@ export default defineConfig({
                   text: 'Cathedrals Fall, Markets Endure',
                   link: '/en/life/cathedrals-fall-markets-endure',
                 },
+                {
+                  text: 'Contributing to Open Source',
+                  link: '/en/life/contributing-to-open-source',
+                },
               ],
             },
           ],
@@ -228,7 +232,7 @@ export default defineConfig({
                 },
                 {
                   text: '如何给开源项目贡献源码',
-                  link: '/zh_CN/life/如何给开源项目贡献源码',
+                  link: '/zh_CN/life/contributing-to-open-source',
                 },
               ],
             },
