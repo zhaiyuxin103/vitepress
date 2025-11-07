@@ -26,4 +26,4 @@
 
 ## Other
 
-More content coming soon...
+- [Prevent Page Zoom on Input Focus in H5](prevent-zoom-on-input-focus-in-h5.md)

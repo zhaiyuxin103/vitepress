@@ -123,6 +123,16 @@ export default defineConfig({
                 },
               ],
             },
+            {
+              text: 'Other',
+              collapsed: false,
+              items: [
+                {
+                  text: 'Prevent Page Zoom on Input Focus in H5',
+                  link: '/en/programe/prevent-zoom-on-input-focus-in-h5',
+                },
+              ],
+            },
           ],
           '/en/life/': [
             {
@@ -295,7 +305,7 @@ export default defineConfig({
               items: [
                 {
                   text: 'H5 输入框聚焦时禁止放大页面',
-                  link: '/zh_CN/programe/H5 输入框聚焦时禁止放大页面',
+                  link: '/zh_CN/programe/prevent-zoom-on-input-focus-in-h5',
                 },
                 {
                   text: '切换 IAM 角色（AWS CLI）',
