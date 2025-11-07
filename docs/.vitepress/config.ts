@@ -171,6 +171,10 @@ export default defineConfig({
                   text: 'Git Branch Sync Methods',
                   link: '/en/tool/git-branch-sync-methods',
                 },
+                {
+                  text: 'Rename a Git Branch',
+                  link: '/en/tool/rename-git-branch',
+                },
               ],
             },
             {
@@ -368,7 +372,7 @@ export default defineConfig({
                 },
                 {
                   text: 'Git 修改分支名称',
-                  link: '/zh_CN/tool/Git/修改分支名称',
+                  link: '/zh_CN/tool/rename-git-branch',
                 },
                 {
                   text: 'Git 分支落后同步方法',

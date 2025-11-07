@@ -3,6 +3,7 @@
 ## Git
 
 - [Git Branch Sync Methods](git-branch-sync-methods.md)
+- [Rename a Git Branch](rename-git-branch.md)
 
 ## Other Tools
 
