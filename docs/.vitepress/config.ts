@@ -65,6 +65,10 @@ export default defineConfig({
                   text: 'Setup Yaf Skeleton',
                   link: '/en/programe/setup-yaf-skeleton',
                 },
+                {
+                  text: 'Load Composer Packages from a Local Path',
+                  link: '/en/programe/load-local-packages-with-composer',
+                },
               ],
             },
             {
@@ -183,7 +187,7 @@ export default defineConfig({
               items: [
                 {
                   text: 'Composer 本地路径加载第三方扩展包',
-                  link: '/zh_CN/programe/PHP/Composer 本地路径加载第三方扩展包',
+                  link: '/zh_CN/programe/load-local-packages-with-composer',
                 },
                 {
                   text: '使用 Composer 管理 Git Hooks',

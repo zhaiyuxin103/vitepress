@@ -3,6 +3,7 @@
 ## PHP
 
 - [Setup Yaf Skeleton](setup-yaf-skeleton.md)
+- [Load Composer Packages from a Local Path](load-local-packages-with-composer.md)
 
 ## Go
 
