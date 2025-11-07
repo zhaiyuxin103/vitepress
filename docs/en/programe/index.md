@@ -18,7 +18,7 @@ More content coming soon...
 
 ## API
 
-More content coming soon...
+- [Understanding the Bearer in the Authorization Header](understanding-bearer-in-authorization-header.md)
 
 ## Other
 

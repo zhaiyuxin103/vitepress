@@ -67,6 +67,16 @@ export default defineConfig({
                 },
               ],
             },
+            {
+              text: 'API',
+              collapsed: false,
+              items: [
+                {
+                  text: 'Understanding the Bearer in the Authorization Header',
+                  link: '/en/programe/understanding-bearer-in-authorization-header',
+                },
+              ],
+            },
           ],
           '/en/life/': [
             {
@@ -229,7 +239,7 @@ export default defineConfig({
                 },
                 {
                   text: '授权为啥要在 Authorization 标头里加个 Bearer？',
-                  link: '/zh_CN/programe/API/授权为啥要在 Authorization 标头里加个 Bearer',
+                  link: '/zh_CN/programe/understanding-bearer-in-authorization-header',
                 },
               ],
             },
