@@ -103,6 +103,10 @@ export default defineConfig({
                   text: 'Development Environment Setup',
                   link: '/en/programe/setup-flutter-environment',
                 },
+                {
+                  text: 'Environment Troubleshooting Guide',
+                  link: '/en/programe/flutter-development-setup-issues',
+                },
               ],
             },
             {
@@ -267,7 +271,7 @@ export default defineConfig({
                 },
                 {
                   text: '开发环境部署问题汇总',
-                  link: '/zh_CN/programe/Flutter/开发环境部署问题汇总',
+                  link: '/zh_CN/programe/flutter-development-setup-issues',
                 },
               ],
             },

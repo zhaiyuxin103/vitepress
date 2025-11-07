@@ -17,6 +17,7 @@
 ## Flutter
 
 - [Flutter Development Environment Setup](setup-flutter-environment.md)
+- [Flutter Environment Troubleshooting Guide](flutter-development-setup-issues.md)
 
 ## API
 

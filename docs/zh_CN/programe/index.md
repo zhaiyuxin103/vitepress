@@ -17,7 +17,7 @@
 ### Flutter
 
 - [开发环境部署](setup-flutter-environment.md)
-- [开发环境部署问题汇总](Flutter/开发环境部署问题汇总.md)
+- [开发环境部署问题汇总](flutter-development-setup-issues.md)
 
 ### API
 

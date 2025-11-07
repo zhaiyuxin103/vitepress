@@ -171,7 +171,7 @@ FLUTTER_STORAGE_BASE_URL = https://storage.flutter-io.cn
 ### 运行 Flutter 项目
 
 ::: tip
-从这里开始你可能会碰到各种各样的问题导致项目运行不起来，请参考 [Flutter 开发环境部署问题汇总](开发环境部署问题汇总.md)
+从这里开始你可能会碰到各种各样的问题导致项目运行不起来，请参考 [Flutter 开发环境部署问题汇总](flutter-development-setup-issues.md)
 :::
 
 1. 右上角打开设备列表，打开虚拟机
