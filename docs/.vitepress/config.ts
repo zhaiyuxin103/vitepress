@@ -135,6 +135,10 @@ export default defineConfig({
                   text: 'Switch IAM Roles in AWS CLI',
                   link: '/en/programe/switch-iam-roles-in-aws-cli',
                 },
+                {
+                  text: 'Decoupling with Dependency Injection',
+                  link: '/en/programe/decoupling-with-dependency-injection',
+                },
               ],
             },
           ],
@@ -317,7 +321,7 @@ export default defineConfig({
                 },
                 {
                   text: '依赖注入如何实现解耦',
-                  link: '/zh_CN/programe/依赖注入如何实现解耦',
+                  link: '/zh_CN/programe/decoupling-with-dependency-injection',
                 },
               ],
             },

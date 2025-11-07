@@ -28,4 +28,4 @@
 
 - [H5 输入框聚焦时禁止放大页面](prevent-zoom-on-input-focus-in-h5.md)
 - [切换 IAM 角色（AWS CLI）](switch-iam-roles-in-aws-cli.md)
-- [依赖注入如何实现解耦](依赖注入如何实现解耦.md)
+- [依赖注入如何实现解耦](decoupling-with-dependency-injection.md)
