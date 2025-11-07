@@ -96,6 +96,16 @@ export default defineConfig({
               ],
             },
             {
+              text: 'Flutter',
+              collapsed: false,
+              items: [
+                {
+                  text: 'Development Environment Setup',
+                  link: '/en/programe/setup-flutter-environment',
+                },
+              ],
+            },
+            {
               text: 'API',
               collapsed: false,
               items: [
@@ -253,7 +263,7 @@ export default defineConfig({
               items: [
                 {
                   text: '开发环境部署',
-                  link: '/zh_CN/programe/Flutter/开发环境部署',
+                  link: '/zh_CN/programe/setup-flutter-environment',
                 },
                 {
                   text: '开发环境部署问题汇总',
