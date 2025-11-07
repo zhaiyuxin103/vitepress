@@ -12,7 +12,7 @@
 
 ### Java
 
-- [开发环境部署](Java/开发环境部署.md)
+- [开发环境部署](setup-java-environment.md)
 
 ### Flutter
 

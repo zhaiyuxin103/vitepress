@@ -12,7 +12,7 @@
 
 ## Java
 
-More content coming soon...
+- [Java Development Environment Setup](setup-java-environment.md)
 
 ## Flutter
 

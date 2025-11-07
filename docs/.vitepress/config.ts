@@ -86,6 +86,16 @@ export default defineConfig({
               ],
             },
             {
+              text: 'Java',
+              collapsed: false,
+              items: [
+                {
+                  text: 'Development Environment Setup',
+                  link: '/en/programe/setup-java-environment',
+                },
+              ],
+            },
+            {
               text: 'API',
               collapsed: false,
               items: [
@@ -233,7 +243,7 @@ export default defineConfig({
               items: [
                 {
                   text: '开发环境部署',
-                  link: '/zh_CN/programe/Java/开发环境部署',
+                  link: '/zh_CN/programe/setup-java-environment',
                 },
               ],
             },
