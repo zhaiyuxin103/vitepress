@@ -131,6 +131,10 @@ export default defineConfig({
                   text: 'Prevent Page Zoom on Input Focus in H5',
                   link: '/en/programe/prevent-zoom-on-input-focus-in-h5',
                 },
+                {
+                  text: 'Switch IAM Roles in AWS CLI',
+                  link: '/en/programe/switch-iam-roles-in-aws-cli',
+                },
               ],
             },
           ],
@@ -309,7 +313,7 @@ export default defineConfig({
                 },
                 {
                   text: '切换 IAM 角色（AWS CLI）',
-                  link: '/zh_CN/programe/切换 IAM 角色（AWS CLI）',
+                  link: '/zh_CN/programe/switch-iam-roles-in-aws-cli',
                 },
                 {
                   text: '依赖注入如何实现解耦',

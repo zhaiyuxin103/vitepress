@@ -27,3 +27,4 @@
 ## Other
 
 - [Prevent Page Zoom on Input Focus in H5](prevent-zoom-on-input-focus-in-h5.md)
+- [Switch IAM Roles in AWS CLI](switch-iam-roles-in-aws-cli.md)
