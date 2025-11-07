@@ -97,6 +97,10 @@ export default defineConfig({
                   text: 'Configuring Environment Variables',
                   link: '/en/other/setup-environment-variables',
                 },
+                {
+                  text: 'Software Version Naming Rules',
+                  link: '/en/other/version-naming-rules',
+                },
               ],
             },
           ],
@@ -320,7 +324,7 @@ export default defineConfig({
                 },
                 {
                   text: '软件版本命名规范',
-                  link: '/zh_CN/other/软件版本命名规范',
+                  link: '/zh_CN/other/version-naming-rules',
                 },
               ],
             },
