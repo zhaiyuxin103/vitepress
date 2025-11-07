@@ -178,6 +178,16 @@ export default defineConfig({
               ],
             },
             {
+              text: 'Software Tools',
+              collapsed: false,
+              items: [
+                {
+                  text: 'Become a Sublime Text Master',
+                  link: '/en/tool/become-sublime-text-master',
+                },
+              ],
+            },
+            {
               text: 'Package Management',
               collapsed: false,
               items: [
@@ -386,7 +396,7 @@ export default defineConfig({
               items: [
                 {
                   text: '从这篇教程开始, 成为 Sublime Text 大师',
-                  link: '/zh_CN/tool/从这篇教程开始，成为%20Sublime%20Text%20大师',
+                  link: '/zh_CN/tool/become-sublime-text-master',
                 },
                 {
                   text: '使用 phpMyAdmin 管理多台 MySQL 服务器',
