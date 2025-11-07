@@ -201,6 +201,10 @@ export default defineConfig({
                   text: 'Manage Multiple MySQL Servers in phpMyAdmin',
                   link: '/en/tool/phpmyadmin-multi-server-setup',
                 },
+                {
+                  text: 'Configure Clash Proxy Whitelist',
+                  link: '/en/tool/clash-proxy-whitelist',
+                },
               ],
             },
             {
@@ -424,7 +428,7 @@ export default defineConfig({
                 },
                 {
                   text: 'Clash 配置代理白名单',
-                  link: '/zh_CN/tool/Clash 配置代理白名单',
+                  link: '/zh_CN/tool/clash-proxy-whitelist',
                 },
               ],
             },
