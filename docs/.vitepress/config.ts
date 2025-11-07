@@ -186,8 +186,12 @@ export default defineConfig({
                   link: '/en/tool/become-sublime-text-master',
                 },
                 {
-                  text: 'Type Corner Quotes on Windows',
+                  text: 'Type Corner Quotes',
                   link: '/en/tool/type-corner-quotes',
+                },
+                {
+                  text: 'Manage Multiple MySQL Servers in phpMyAdmin',
+                  link: '/en/tool/phpmyadmin-multi-server-setup',
                 },
               ],
             },
@@ -404,7 +408,7 @@ export default defineConfig({
                 },
                 {
                   text: '使用 phpMyAdmin 管理多台 MySQL 服务器',
-                  link: '/zh_CN/tool/使用 phpMyAdmin 管理多台 MySQL 服务器',
+                  link: '/zh_CN/tool/phpmyadmin-multi-server-setup',
                 },
                 {
                   text: '如何输入直角引号（「」和『』）',

@@ -9,6 +9,7 @@
 
 - [Become a Sublime Text Master](become-sublime-text-master.md)
 - [Type Corner Quotes](type-corner-quotes.md)
+- [Manage Multiple MySQL Servers in phpMyAdmin](phpmyadmin-multi-server-setup.md)
 
 ## Other Tools
 
