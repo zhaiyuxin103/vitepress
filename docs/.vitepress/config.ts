@@ -185,6 +185,10 @@ export default defineConfig({
                   text: 'Become a Sublime Text Master',
                   link: '/en/tool/become-sublime-text-master',
                 },
+                {
+                  text: 'Type Corner Quotes on Windows',
+                  link: '/en/tool/type-corner-quotes',
+                },
               ],
             },
             {
@@ -404,7 +408,7 @@ export default defineConfig({
                 },
                 {
                   text: '如何输入直角引号（「」和『』）',
-                  link: '/zh_CN/tool/如何输入直角引号（「」和『』）',
+                  link: '/zh_CN/tool/type-corner-quotes',
                 },
                 {
                   text: 'Clash 配置代理白名单',

@@ -8,6 +8,7 @@
 ## Software Tools
 
 - [Become a Sublime Text Master](become-sublime-text-master.md)
+- [Type Corner Quotes](type-corner-quotes.md)
 
 ## Other Tools
 
