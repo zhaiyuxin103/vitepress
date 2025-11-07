@@ -16,4 +16,4 @@
 
 ### 包管理
 
-- [从 npm 迁移到 pnpm](从%20npm%20迁移到%20pnpm.md)
+- [从 npm 迁移到 pnpm](migrate-from-npm-to-pnpm.md)

@@ -173,6 +173,16 @@ export default defineConfig({
                 },
               ],
             },
+            {
+              text: 'Package Management',
+              collapsed: false,
+              items: [
+                {
+                  text: 'Migrate from npm to pnpm',
+                  link: '/en/tool/migrate-from-npm-to-pnpm',
+                },
+              ],
+            },
           ],
           '/en/other/': [
             {
@@ -394,7 +404,7 @@ export default defineConfig({
               items: [
                 {
                   text: '从 npm 迁移到 pnpm',
-                  link: '/zh_CN/tool/从 npm 迁移到 pnpm',
+                  link: '/zh_CN/tool/migrate-from-npm-to-pnpm',
                 },
               ],
             },
