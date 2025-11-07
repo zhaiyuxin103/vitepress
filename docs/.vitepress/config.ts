@@ -175,6 +175,10 @@ export default defineConfig({
                   text: 'Rename a Git Branch',
                   link: '/en/tool/rename-git-branch',
                 },
+                {
+                  text: 'Git Commit Emoji Guide',
+                  link: '/en/tool/git-commit-emoji-guide',
+                },
               ],
             },
             {
@@ -382,7 +386,7 @@ export default defineConfig({
               items: [
                 {
                   text: 'Git Commit Emoji 提交指南',
-                  link: '/zh_CN/tool/Git Commit Emoji 提交指南',
+                  link: '/zh_CN/tool/git-commit-emoji-guide',
                 },
                 {
                   text: 'Git 如何合并某个 commit',
