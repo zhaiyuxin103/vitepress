@@ -76,6 +76,16 @@ export default defineConfig({
               ],
             },
             {
+              text: 'Go',
+              collapsed: false,
+              items: [
+                {
+                  text: 'Manage Multiple Versions',
+                  link: '/en/programe/golang-multi-version-setup',
+                },
+              ],
+            },
+            {
               text: 'API',
               collapsed: false,
               items: [
@@ -213,7 +223,7 @@ export default defineConfig({
               items: [
                 {
                   text: '多版本共存',
-                  link: '/zh_CN/programe/Go/多版本共存',
+                  link: '/zh_CN/programe/golang-multi-version-setup',
                 },
               ],
             },

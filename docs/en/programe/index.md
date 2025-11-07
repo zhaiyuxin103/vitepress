@@ -8,7 +8,7 @@
 
 ## Go
 
-More content coming soon...
+- [Manage Multiple Go Versions](golang-multi-version-setup.md)
 
 ## Java
 

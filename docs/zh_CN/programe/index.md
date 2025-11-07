@@ -8,7 +8,7 @@
 
 ### Golang
 
-- [多版本共存](Go/多版本共存.md)
+- [多版本共存](golang-multi-version-setup.md)
 
 ### Java
 
