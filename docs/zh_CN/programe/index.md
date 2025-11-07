@@ -3,7 +3,7 @@
 ### PHP
 
 - [Composer 本地路径加载第三方扩展包](load-local-packages-with-composer.md)
-- [使用 Composer 管理 Git Hooks](PHP/使用%20Composer%20管理%20Git%20Hooks.md)
+- [使用 Composer 管理 Git Hooks](manage-git-hooks-with-composer.md)
 - [搭建 Yaf 脚手架](setup-yaf-skeleton.md)
 
 ### Golang

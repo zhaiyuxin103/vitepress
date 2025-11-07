@@ -69,6 +69,10 @@ export default defineConfig({
                   text: 'Load Composer Packages from a Local Path',
                   link: '/en/programe/load-local-packages-with-composer',
                 },
+                {
+                  text: 'Manage Git Hooks with Composer',
+                  link: '/en/programe/manage-git-hooks-with-composer',
+                },
               ],
             },
             {
@@ -191,7 +195,7 @@ export default defineConfig({
                 },
                 {
                   text: '使用 Composer 管理 Git Hooks',
-                  link: '/zh_CN/programe/PHP/使用 Composer 管理 Git Hooks',
+                  link: '/zh_CN/programe/manage-git-hooks-with-composer',
                 },
                 {
                   text: '搭建 Yaf 脚手架',
