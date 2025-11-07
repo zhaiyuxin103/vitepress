@@ -56,6 +56,18 @@ export default defineConfig({
           { text: 'About', link: '/en/about' },
         ],
         sidebar: {
+          '/en/programe/': [
+            {
+              text: 'PHP',
+              collapsed: false,
+              items: [
+                {
+                  text: 'Setup Yaf Skeleton',
+                  link: '/en/programe/setup-yaf-skeleton',
+                },
+              ],
+            },
+          ],
           '/en/life/': [
             {
               text: 'Life',
@@ -169,7 +181,7 @@ export default defineConfig({
                 },
                 {
                   text: '搭建 Yaf 脚手架',
-                  link: '/zh_CN/programe/PHP/搭建 Yaf 脚手架',
+                  link: '/zh_CN/programe/setup-yaf-skeleton',
                 },
               ],
             },

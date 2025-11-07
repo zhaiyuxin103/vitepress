@@ -2,7 +2,7 @@
 
 ## PHP
 
-More content coming soon...
+- [Setup Yaf Skeleton](setup-yaf-skeleton.md)
 
 ## Go
 
