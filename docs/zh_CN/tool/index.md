@@ -3,7 +3,7 @@
 ### Git
 
 - [Git Commit Emoji 提交指南](git-commit-emoji-guide.md)
-- [Git 如何合并某个 commit](Git%20如何合并某个%20commit.md)
+- [Git 如何合并某个 commit](merge-specific-git-commit.md)
 - [Git 修改分支名称](rename-git-branch.md)
 - [Git 分支落后同步方法](git-branch-sync-methods.md)
 

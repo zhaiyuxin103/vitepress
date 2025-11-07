@@ -179,6 +179,10 @@ export default defineConfig({
                   text: 'Git Commit Emoji Guide',
                   link: '/en/tool/git-commit-emoji-guide',
                 },
+                {
+                  text: 'Merge a Specific Commit',
+                  link: '/en/tool/merge-specific-git-commit',
+                },
               ],
             },
             {
@@ -390,7 +394,7 @@ export default defineConfig({
                 },
                 {
                   text: 'Git 如何合并某个 commit',
-                  link: '/zh_CN/tool/Git 如何合并某个 commit',
+                  link: '/zh_CN/tool/merge-specific-git-commit',
                 },
                 {
                   text: 'Git 修改分支名称',

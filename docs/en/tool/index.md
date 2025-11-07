@@ -5,6 +5,7 @@
 - [Git Branch Sync Methods](git-branch-sync-methods.md)
 - [Rename a Git Branch](rename-git-branch.md)
 - [Git Commit Emoji Guide](git-commit-emoji-guide.md)
+- [Merge a Specific Git Commit](merge-specific-git-commit.md)
 
 ## Software Tools
 
