@@ -21,6 +21,7 @@ More content coming soon...
 ## API
 
 - [Understanding the Bearer in the Authorization Header](understanding-bearer-in-authorization-header.md)
+- [Automatically Set Variables in Postman](automate-variables-in-postman.md)
 
 ## Other
 

@@ -83,6 +83,10 @@ export default defineConfig({
                   text: 'Understanding the Bearer in the Authorization Header',
                   link: '/en/programe/understanding-bearer-in-authorization-header',
                 },
+                {
+                  text: 'Postman Automatically Set Variables',
+                  link: '/en/programe/automate-variables-in-postman',
+                },
               ],
             },
           ],
@@ -243,7 +247,7 @@ export default defineConfig({
               items: [
                 {
                   text: 'Postman 自动化设置变量',
-                  link: '/zh_CN/programe/API/Postman 自动化设置变量',
+                  link: '/zh_CN/programe/automate-variables-in-postman',
                 },
                 {
                   text: '授权为啥要在 Authorization 标头里加个 Bearer？',

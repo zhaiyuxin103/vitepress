@@ -21,7 +21,7 @@
 
 ### API
 
-- [Postman 自动化设置变量](API/Postman%20自动化设置变量.md)
+- [Postman 自动化设置变量](postman-automatically-set-variables.md)
 - [授权为啥要在 Authorization 标头里加个 Bearer？](understanding-bearer-in-authorization-header.md)
 
 ### Other
